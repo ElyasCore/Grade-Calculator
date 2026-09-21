@@ -1,12 +1,9 @@
-# Grade Calculator
+Grade Calculator
 
-A simple Java program that calculates grades based on student scores.
+A console application that accepts a student's name and grades for Java, Math, Cybersecurity, and English.
 
-### Built with
-- Java
-- IntelliJ IDEA
+It validates each grade, calculates the total and average, determines the letter grade, and displays the student's pass/fail status.
 
-### Version
-v1.0
+Concepts Practiced
 
-> First version — built while learning Java fundamentals.
+Scanner · Variables · if/else · while · Arithmetic Operations · Input Validation · Conditional Logic
